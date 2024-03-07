@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceillavu <3
 - 👀 I’m interested in making small projects and editing.
-- 🎓 Diploma of Information Technology in Network.
+- 🎓 Diploma of Information Technology.
 - 🏫 Polytechnic Kuching Sarawak, Malaysia.
 - 📫 Reach me on Telegram: @ceillavu
 - 😄 Pronouns: she/her
