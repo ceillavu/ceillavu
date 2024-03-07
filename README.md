@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ceillavu
+- 👋 Hi, I’m @ceillavu <3
 - 👀 I’m interested in making small projects and editing.
-- 🌱 I’m currently learning network infrastructure.
+- 🎓 Diploma of Information Technology in Network.
+- 🏫 Polytechnic Kuching Sarawak, Malaysia.
 - 📫 Reach me on Telegram: @ceillavu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am not fun :(
