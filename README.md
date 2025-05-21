@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ceillavu <3
+- 👋 Hi, I’m Cella a.k.a @ceillavu <3
 - 🎓 Diploma of Information Technology.
-- 🏫 Polytechnic Kuching Sarawak, Malaysia.
-- 📫 Reach me on Telegram: @ceillavu
+- 📫 Reach me on LinkedIn: Marcella Markus
 - 😄 Pronouns: she/her
-- 🐱 I like cats
+- 🐱 I like cats, video games, editing, and reading books.
+
