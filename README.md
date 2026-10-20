@@ -25,7 +25,7 @@
 
 ## 𐙚 hello, I'm Marcella
 
-I'm a **Computer Science (Network Computing) student at Universiti Malaysia Sarawak (UNIMAS)**, based in Sarawak, Malaysia.
+I'm a **Computer Science (Network Computing) student at Universiti Malaysia Sarawak (UNIMAS)**.
 
 I'm drawn to the layers behind the screen — how devices connect, how software behaves, and how systems fit together. I'm exploring the overlap between **networking, software development, and cloud technologies**, with a practical, curious, still-learning mindset.
 
