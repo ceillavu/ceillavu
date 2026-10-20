@@ -43,7 +43,7 @@ focus:
 
 mode: learning
 location: Sarawak, MY
-sidekick: 🐈
+sidekick: 🐈 & ☕
 ```
 
 </td>
