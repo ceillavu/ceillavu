@@ -36,11 +36,13 @@ Hey, I'm **Marcella** — a Computer Science (Network Computing) student at **Un
 
 I'm interested in the space where **network infrastructure, software development, and cloud technologies** overlap. I like learning how things work behind the scenes, then turning that knowledge into practical projects and experiments.
 
+I also do content creation on TikTok and Shopee video. I
+
 I'm still building my skills, so this profile is a work in progress too. Expect learning projects, experiments, and the occasional debugging side quest.
 
 ## `02 / TECH STACK`
 
-*Tools and technologies I've used, studied, or am currently exploring — not a claim of expertise in every item.*
+*Tools and technologies I've used personally and during internship, studied, or am currently exploring — not a claim of expertise in every item.*
 
 | AREA | TOOLS / TOPICS |
 |---|---|
@@ -59,14 +61,14 @@ I'm still building my skills, so this profile is a work in progress too. Expect 
 
 ## `04 / BUILD LOG`
 
-This space is for projects as they become ready to share. I prefer documenting what a project actually does, what I learned, and what I'd improve next — rather than listing unfinished ideas as completed work.
+This space is for projects as they become ready to share. I prefer documenting what a project actually does, what I learned and what I'd improve next — rather than listing unfinished ideas as completed work.
 
 > **Rule of the lab:** learn it → build it → test it → document it.
 
 ## `05 / OUTSIDE THE TERMINAL`
 
-- Sarawakian, currently studying at UNIMAS.
-- Curious by default; still learning one rabbit hole at a time.
+- Sarawak Malaysia, currently studying at UNIMAS.
+- All human are curious by default; still learning one rabbit hole at a time, baby steps!
 - Cat person. Would absolutely pause a debugging session for a cat.
 
 ## `06 / CONNECT`
