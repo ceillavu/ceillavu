@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="ceillavu" width="100%" />
+<img src="banner.svg" alt="ceillavu" width="100%" />
 
 *networks, code, and a lot of coffee*
 
